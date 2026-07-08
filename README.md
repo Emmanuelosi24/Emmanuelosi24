@@ -15,9 +15,9 @@ I enjoy building pratical cybersecurity projects that demostrate real-world skil
 - ## Project
 | Project | Discription | Repositry |
 |---------|-------------|-----------|
-| Osint Investigation | Conducted an Osint Investigation on a target organization | coming soon |
+| Osint Investigation | Conducted an Osint Investigation on a target organization | https://github.com/Emmanuelosi24/Osint-project |
 | Log Analysis | Analysed IIS and windows Event Logs to identify attack | coming soon |
-
+| Malware Analysis | Analysis IIS and windows Event logs to identify attackers | coming soon |
 ## Skills 
 ### Operating Systems
 - Windows
